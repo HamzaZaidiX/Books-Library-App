@@ -17,17 +17,16 @@ Books Library App is bulid with React JS for Book Lovers ♥ who are read books 
 Run these Commands on your Terminal in yur Machine to Start this Project:
 
 ```
-npm i
+npm install
 or
 yarn add
+```
 ```
 npm run dev
 or
 yarn dev
-
 ```
 Clone this Repo to Run this Project in Your Machine:
-
 ```
 git clone https://github.com/HamzaZaidiX/My-ToDo-App
 ```
