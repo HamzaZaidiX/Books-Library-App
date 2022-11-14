@@ -1,6 +1,6 @@
-# 📚 Books-Library-App
+<h1 align="center">📚 Books Library App</h1>
 
-**Books Library App is build with `React JS` for Book Lovers ♥📚 and Showing Books Data from `Google Books Api` inspired to make for those who are Read books from ❤ and want all Books in one place on one click as You can Search any Books you want and read books everyday 📚 please Check out this Project you will love ❤ by click on link 🔗 below 👇**
+**Books Library App is build with `React JS` for Book Lovers ♥📚 and `Showing Books Data from Google Books Api` inspired to make for those who are Read books from ❤ and want all Books in one place on one click as `You can Search any Books` you want and read books by Downloading E book from `Google Books` 📚 please Check out this Project you will love ❤ by click on link 🔗 below 👇**
 
 <h2 align="center"><a href="https://book-lovers-app-shjz.vercel.app/" align="center">Click Here to Read a Book 📙</a></h2>
 
